@@ -109,7 +109,7 @@ const miModulo = (() => {
             } else {
                 alert('Computadora gano, mala suerte.')
             }
-        }, 100 );
+        }, 200 );
 
         estiloDesactivado();
     }

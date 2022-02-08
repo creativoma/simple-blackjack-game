@@ -10,8 +10,7 @@
 }
 
 html {
-  font-family: Inter;
-
+  font-family: "Inter", sans-serif;
   background: var(--verde-gradient);
 }
 
@@ -21,7 +20,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 15vh;
+  height: 10vh;
 }
 
 header > h1.titulo {
@@ -50,7 +49,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 85vh;
+  height: 90vh;
 }
 
 main > div.container-player > div.div-cartas > img.carta {
