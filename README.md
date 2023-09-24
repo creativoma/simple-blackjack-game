@@ -1,5 +1,3 @@
-# simple-blackjack
-
 # Simple BlackJack Game with JS
 Este proyecto forma parte de un curso de Fernando Herrera en Udemy.
 
